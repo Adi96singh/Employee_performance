@@ -1,7 +1,6 @@
 # Employee_performance
 
 # Employee Performance Analysis
-## INX Future Inc.
 
 #  Project Summary
 
